@@ -1,4 +1,4 @@
-#shipment-management-form-project.
+#Shipment-management-form-project.
 
 ##This project uses JPDB to store data in the database.
 
@@ -6,7 +6,7 @@ JSONPowerDB is a High Performance, Light Weight, Ajax Enabled, Serverless, Simpl
 
 
 
-###Benefits of using JsonPowerDB
+#Benefits of using JsonPowerDB
 
 It is realtime and simple to use.
 Easy to maintain the reconds.
@@ -20,7 +20,7 @@ Inbuilt support for querying multiple databases.
 It is light weight.
 It is a serverless database so that you don't have to choose an instance size at all.
 
-###Use cases:
+#Use cases:
 
 All RDMS use cases.
 All key-value use cases.
